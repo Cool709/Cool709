@@ -1,4 +1,4 @@
 ### yin and yang refer to the two opposite principles and forces that are thought to exist in all things
 Fire Water Metal Wood Earth
 
-![3547589](https://user-images.githubusercontent.com/101523940/180732542-fceee211-0f7e-4774-86bc-31a76b13177d.jpg)
+![5182fd241fe8646937de220e45de0185](https://user-images.githubusercontent.com/101523940/180843967-3f393a8c-e7c9-4747-8e88-7a266b884d26.jpg)
