@@ -28,3 +28,4 @@ Main Skills:
 [here]: https://kogutstt2.github.io/portfolio/
 [resume]: https://github.com/kogutstt2/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
  -->
+
