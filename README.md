@@ -1,3 +1,5 @@
+![2146724838](https://user-images.githubusercontent.com/101523940/198819965-b7083ee5-a32b-4f0f-a54b-1b5a76040117.jpg)
+
 ## Hi 👋, Senior Full Stack Developer!
 
 Senior full-stack developer with extensive experience building high performing presentations, layers, reusable components and performance optimization with React.js, Redux, Next- JavaScript, HTML, CSS, back-end with Node.js. Specialized in developing 20+ useful, well-constructed websites and applications using React.js and Node.js.
