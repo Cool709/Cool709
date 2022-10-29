@@ -7,6 +7,7 @@ Able to effectively self-manage during independent projects, as well as leading 
 Main Skills:
 
 - Blockchain, Crypto, Solidity, Smart contract (ERC20, ERC721), NFT, web3.js, ether.js, Dapp, DAO, Defi, NFT, NFT marketplace, Opensea
+- Chain Development, Cosmos SDK, Ignite-Cli, Aptos, Move
 - React, React Hooks, React Context,
 - Tailwind CSS, Material-UI, Bootstrap
 - GraphQL, Apollo
